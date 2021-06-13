@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: normal;
+}
+
+h1 {
+    color: #1c1427;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+}
+
+h2 {
+    color: #1c1427;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: #1c1427;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.profile-desc {
+    margin: 0 25rem;
+    margin-bottom: 20px;
+}
+
+.top-container {
+    background-color: #ccffbd;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #7eca9c;
+    padding: 50px 0 20px;
+}
+
+.footer-link {
+    color: #111;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #ffffff;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.top-cloud {
+    height: 60px;
+    width: 120px;
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    height: 60px;
+    width: 120px;
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
+
+.mountain {
+    height: 400px;
+    width: 700px;
+}
+
+.pro-text{
+    color: red;
+}
+
+.skill-row {
+    margin: 100px auto;
+    display: inline;
+}
+
+.skill-image1 {
+    margin: 20px 10px;
+}
+
+hr {
+    color: #7eca9c;
+    border-top: 5px dotted;
+    width: 5%;
+}
+
+.contact-me {
+    margin: 50px auto 50px;
+}
+
+.myButton {
+    margin-top: 20px;
+	background-color:#44c767;
+	border-radius:10px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.profile {
+    padding: 10px 0;
+}
+
+.project-row {
+    margin: 30px auto;
+}
+
+.list {
+    text-align: left;
+    margin: 0 20rem;
+}
